@@ -86,7 +86,7 @@ jobs:
     - name: Build with Maven
       run: mvn install
 
- intall:
+ install:
     runs-on: ubuntu-latest
     
     steps:
